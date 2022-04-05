@@ -1,0 +1,15 @@
+.square {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    margin-left: 30px;
+}
+
+h1 {
+    color: white;
+    background-color: #808080;
+    width: 300px;
+    height: 500px;
+}
+
